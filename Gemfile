@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'devise'
 gem 'haml-rails'
 gem 'bootstrap-sass', '~> 2.3.2.0'
 gem 'simple_form'
