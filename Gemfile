@@ -10,6 +10,7 @@ gem 'rails', '4.2.6'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~>1.3.13'
 
+gem 'cancan'
 gem 'bootstrap-datepicker-rails'
 
 # Use SCSS for stylesheets
